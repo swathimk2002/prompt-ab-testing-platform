@@ -1,0 +1,15 @@
+
+fastapi
+uvicorn[standard]
+streamlit
+groq
+sqlalchemy
+psycopg[binary]
+pydantic-settings
+python-dotenv
+pandas
+scikit-learn
+scipy
+statsmodels
+httpx
+pytest
